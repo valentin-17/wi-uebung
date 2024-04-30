@@ -1,5 +1,2 @@
 function calcSquare(n)
 	return(n^2)
-
-function calcCube(n)
-	return(n^3)
