@@ -1,1 +1,2 @@
-
+function calcSquare(n)
+	return(n^2)
