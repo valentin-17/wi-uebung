@@ -1,0 +1,18 @@
+function main
+
+	let n be integer
+	let answer be String
+
+	read n
+
+	if n is even then
+		answer <- calcSquare(n)
+		return("n is even. n^2 = " + answer)
+		end
+	else 
+		answer <- calcCube(n)
+		return("n is even. n^3 = " + answer)
+		end
+
+	return("n was not given")
+	end
