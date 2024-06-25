@@ -1,6 +1,7 @@
 In dieser Übung sollen Sie die Zusammenarbeit mit mehreren Personen an einem Projekt über Git kennenlernen. Dazu haben wir Ihnen dieses Repository zur Verfügung gestellt.
 # Aufgabe 1: Setup
 >Dieser Schritt muss nur von **einem** Teammitglied gemacht werden.
+
 Falls Sie noch keinen Github Account haben, erstellen Sie sich einen Studenten-Account mit Ihrer Uni-Mail.
 Erstellen Sie ein eigenes Repository. Klonen Sie das Repository [wi-uebung](https://www.github.com/valentin-17/wi-uebung) in ihr neu erstelltes Repository.
 Laden Sie als nächstes Ihr Teammitglied als **Collaborator** in das Repository ein.
