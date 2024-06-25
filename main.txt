@@ -1,4 +1,4 @@
-import helpers.txt
+import helpers
 
 function main
 
