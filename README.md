@@ -1,6 +1,6 @@
 In dieser Übung sollen Sie die Zusammenarbeit mit mehreren Personen an einem Projekt über Git kennenlernen. Dazu haben wir Ihnen dieses Repository zur Verfügung gestellt. Falls Sie noch keinen Github Account haben, erstellen Sie sich einen Studenten-Account mit Ihrer Uni-Mail.
 
-Das Repository besteht aus einer Datei **main.txt** und einer Datei **helpers.txt**. Die main Datei muss nicht verändert werden. Sie dient lediglich dazu ein nachvollziehbares Beispiel aufbauen zu können. Machen Sie sich gerne mit dem Pseudocode vertraut und versuchen Sie zu verstehen, was innerhalb von **main.txt** geschieht. Die helpers Datei ist zu Beginn leer. Hier werden Sie Ihre Änderungen einfügen.
+Das Repository besteht aus einer Datei **main.txt** und einer Datei **helpers.txt**. Die main Datei muss nicht verändert werden. Sie dient lediglich dazu ein nachvollziehbares Beispiel aufzubauen. Machen Sie sich gerne mit dem Pseudocode vertraut und versuchen Sie zu verstehen, was innerhalb von **main.txt** geschieht. Die helpers Datei ist zu Beginn leer. Hier werden Sie Ihre Änderungen einfügen.
 # Aufgabe 1: Setup
 >Dieser Schritt muss nur von **einem** Teammitglied gemacht werden.
 
