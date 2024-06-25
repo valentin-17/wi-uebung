@@ -10,6 +10,7 @@ Erstellen Sie zwei Branches, damit jedes Teammitglied eine eigene Arbeitsumgebun
 
 # Aufgabe 3: Bearbeiten
 Jedes Teammitglied bekommt nun eine Datei "Coworker n". Innerhalb dieser Datei soll die Funktionalität entsprechend der Beschreibung implementiert werden. Schreiben Sie die Funktion als Pseudocode. Bearbeiten Sie die Dateien dabei **im Browser** mit den verfügbaren Textbearbeitungstools von Github. Sie müssen nichts herunterladen!
-Denken Sie daran ihre Änderungen mit einem Commit zu bestätigen und mittels Push in ihren Branch hochzuladen.
+
+Denken Sie daran ihre Änderungen mit einem Commit zu bestätigen und mittels Push in **ihren eigenen Branch** hochzuladen.
 
 # Aufgabe 4: Merge
