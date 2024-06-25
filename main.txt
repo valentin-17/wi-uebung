@@ -11,7 +11,7 @@ function main
 		end
 	else 
 		answer <- calcCube(n)
-		return("n is even. n^3 = " + answer)
+		return("n is odd. n^3 = " + answer)
 		end
 
 	return("n was not given")
